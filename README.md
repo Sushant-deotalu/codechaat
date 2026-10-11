@@ -174,3 +174,4 @@ Always confirm with official sources: NDMA Sachet (sachet.ndma.gov.in), IMD (mau
 - **Open-Meteo** — weather forecasts, ERA5 reanalysis, elevation (Copernicus DEM) and river discharge (GloFAS), licensed CC BY 4.0.
 - **OpenStreetMap contributors** — base map tiles and fire station/hospital locations (ODbL), searched through **Photon** (Komoot) and **Nominatim**.
 - **Libraries:** Express, Turf.js, pngjs, Leaflet, Chart.js, Three.js; Earth textures from the Three.js examples.
+- used ai for source code
